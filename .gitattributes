@@ -52,3 +52,10 @@
 *.so        binary
 *.a         binary
 *.aar       binary
+
+# Third-party content bundled with the project. Excluded from language stats
+# and from diffs so the repository reflects authored work.
+Assets/UnityXRContent/**   linguist-vendored
+Assets/TextMesh?Pro/**     linguist-vendored
+ContentPackages/**         linguist-vendored
+Assets/XR/**               linguist-generated
