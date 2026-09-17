@@ -1,0 +1,54 @@
+# Normalise line endings for text files, let Git detect binary
+* text=auto
+
+# Unity YAML assets: force LF and treat as text so diffs are readable
+*.cs                 text diff=csharp
+*.shader             text
+*.shadergraph        text
+*.cginc              text
+*.hlsl               text
+*.asmdef             text
+*.json               text
+*.md                 text
+*.uss                text
+*.uxml               text
+
+*.unity              text eol=lf
+*.prefab             text eol=lf
+*.asset              text eol=lf
+*.mat                text eol=lf
+*.meta               text eol=lf
+*.controller         text eol=lf
+*.anim               text eol=lf
+*.physicMaterial     text eol=lf
+*.physicsMaterial2D  text eol=lf
+*.inputactions       text eol=lf
+
+# Binary assets
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.psd       binary
+*.tif       binary
+*.tga       binary
+*.exr       binary
+*.hdr       binary
+*.fbx       binary
+*.obj       binary
+*.blend     binary
+*.mp4       binary
+*.mov       binary
+*.wav       binary
+*.mp3       binary
+*.ogg       binary
+*.ttf       binary
+*.otf       binary
+*.docx      binary
+*.pdf       binary
+*.tgz       binary
+*.unitypackage binary
+*.dll       binary
+*.so        binary
+*.a         binary
+*.aar       binary

@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MuseumPaintingLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5104142100132818136
+  m_GuidHigh: 1349497694465159056
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5337435607411681806
+      m_GuidHigh: 7330133244252363952
+    m_SerializedTextureGuid:
+      m_GuidLow: 14606395225059775217
+      m_GuidHigh: 6132107000384061721
+    m_Size: {x: 1.8, y: 0.886875}
+    m_SpecifySize: 1
+    m_Name: 1_maesta_14th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4976888737143981535
+      m_GuidHigh: 7351301563320125824
+    m_SerializedTextureGuid:
+      m_GuidLow: 8684286050681605139
+      m_GuidHigh: 16911539154545819114
+    m_Size: {x: 1.8, y: 0.830625}
+    m_SpecifySize: 1
+    m_Name: 2_tribute_15th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4693360105005378236
+      m_GuidHigh: 1362617606278958994
+    m_SerializedTextureGuid:
+      m_GuidLow: 12521412894027501313
+      m_GuidHigh: 4858241284414728507
+    m_Size: {x: 1.8, y: 1.0425}
+    m_SpecifySize: 1
+    m_Name: 3_adoration_15th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4980583226324148043
+      m_GuidHigh: 15003092813458647729
+    m_SerializedTextureGuid:
+      m_GuidLow: 15502692901382606243
+      m_GuidHigh: 999605976050388505
+    m_Size: {x: 0.9, y: 1.2309375}
+    m_SpecifySize: 1
+    m_Name: 4_arnolfini_15th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5509496461832877432
+      m_GuidHigh: 11619201967351677359
+    m_SerializedTextureGuid:
+      m_GuidLow: 12151884787500139238
+      m_GuidHigh: 11045411334404926043
+    m_Size: {x: 1.2, y: 1.0300001}
+    m_SpecifySize: 1
+    m_Name: 5_lamentation_of_christ_15th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5678008164416869676
+      m_GuidHigh: 7934654398404298418
+    m_SerializedTextureGuid:
+      m_GuidLow: 16272814666045677564
+      m_GuidHigh: 13198177313103135288
+    m_Size: {x: 1.8, y: 1.280625}
+    m_SpecifySize: 1
+    m_Name: 6_hunters_16th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5099552258258243130
+      m_GuidHigh: 10154243798021822388
+    m_SerializedTextureGuid:
+      m_GuidLow: 7603207265275903673
+      m_GuidHigh: 11891734672061347402
+    m_Size: {x: 1, y: 1.5447917}
+    m_SpecifySize: 1
+    m_Name: 7_bacchus_16th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5501060426950075535
+      m_GuidHigh: 14309451075927501209
+    m_SerializedTextureGuid:
+      m_GuidLow: 17376268952428174845
+      m_GuidHigh: 4267410141172704776
+    m_Size: {x: 1.3, y: 1.3352083}
+    m_SpecifySize: 1
+    m_Name: 8_calling_17th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5317981509885236897
+      m_GuidHigh: 8477148129603542930
+    m_SerializedTextureGuid:
+      m_GuidLow: 3982430157483159554
+      m_GuidHigh: 11173179636388035899
+    m_Size: {x: 0.9, y: 1.145625}
+    m_SpecifySize: 1
+    m_Name: 9_judith_beheading_17th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4885010480235081590
+      m_GuidHigh: 12798105085876207493
+    m_SerializedTextureGuid:
+      m_GuidLow: 11611662173907876332
+      m_GuidHigh: 11261882927314213992
+    m_Size: {x: 0.9, y: 1.16625}
+    m_SpecifySize: 1
+    m_Name: 10_self_portrait_17th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4675553576278833986
+      m_GuidHigh: 13805282978352184220
+    m_SerializedTextureGuid:
+      m_GuidLow: 16070069602975260568
+      m_GuidHigh: 14175259540077009752
+    m_Size: {x: 0.9, y: 1.1503124}
+    m_SpecifySize: 1
+    m_Name: 11_the_swing_18th
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5189227118754859164
+      m_GuidHigh: 576461810504775579
+    m_SerializedTextureGuid:
+      m_GuidLow: 15444098365267811342
+      m_GuidHigh: 17712894802749069802
+    m_Size: {x: 0.9, y: 1.3087499}
+    m_SpecifySize: 1
+    m_Name: 12_blue_boy_18th
+    m_Texture: {fileID: 0}
